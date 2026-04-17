@@ -55,5 +55,5 @@ Unlike standard academic projects, **AgileNerds** was developed and presented as
 ---
 
 ## 👥 Contributors
-* **Jannatul Ferdous Salma** 
+**Jannatul Ferdous Salma**  
 **Institution:** East West University, Department of CSE.
